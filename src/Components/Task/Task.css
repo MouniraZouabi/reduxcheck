@@ -1,0 +1,30 @@
+.Itemtask {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+    padding: 0.5%;
+    margin: 5px;
+    border: 1px rgb(128, 151, 255) solid;
+background-image: url(https://i.pinimg.com/originals/2d/f3/21/2df32177d3e50bde9d8c34b164566af1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+border-radius: 5%;
+transition: width 2s;
+}
+
+
+.Itemtask h3 {
+    max-width: 80%;
+    word-wrap: break-word;
+font-size: 20px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: rgb(255, 255, 255);
+}
+
+
+.taskBtns {
+    width:  15%;
+    display: flex;
+    justify-content: space-between;
+}

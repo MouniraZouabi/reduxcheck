@@ -1,0 +1,11 @@
+.listTask {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 1%;
+}
+.filter_btns {
+  width: 60%;
+  display: flex;
+  justify-content: space-around;
+}

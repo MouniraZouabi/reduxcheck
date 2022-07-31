@@ -1,0 +1,33 @@
+.AddTask {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2%;
+  background-color: rgb(24, 39, 122);
+  background-image: url(https://p4.wallpaperbetter.com/wallpaper/556/382/458/cosmic-dream-4k-wallpaper-preview.jpg);
+}
+.inputD {
+  display: flex;
+  width: 50%;
+}
+.inputD > * {
+  margin: 2%;
+}
+
+
+h1 {
+  color: white;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+text-decoration: solid;
+}
+h2 {
+  color: white;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+text-decoration: solid;
+}
+
+h5 {
+  color: white;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
